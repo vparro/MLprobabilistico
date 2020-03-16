@@ -1,2 +1,2 @@
 # MLprobabilistico
-Aprendizado de máquina - métodos probabil
+Aprendizado de máquina - métodos probabilístico
